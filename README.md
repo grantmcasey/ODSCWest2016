@@ -24,13 +24,13 @@ I highly recommend installing the [Anaconda distribution here](https://www.conti
 
 To get the newest releases of scikit-learn, seaborn and bokeh (necessary for Workshop), you will need to run the following in your terminal:
 
-$ conda install seaborn
-$ conda update scikit-learn
-$ conda update bokeh
+`$ conda install seaborn`
+`$ conda update scikit-learn`
+`$ conda update bokeh`
 
 Also confirm that when you type
 
-$ jupyter notebook
+`$ jupyter notebook`
 
 in your terminal, that you see the notebook panel load in your web browser.
 
